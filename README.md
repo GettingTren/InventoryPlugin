@@ -7,6 +7,14 @@ This plugin can be used in a server like a **world selector**: it includes *bedw
 
 When a player interacts with the menu, **the items are not-clickable and nor-movable**, with a custom **listener** that sends the player a message with the name of the 'world' selected.  
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## Requirements
 
 To deploy this project you will need a few things:
