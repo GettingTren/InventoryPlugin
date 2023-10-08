@@ -1,6 +1,6 @@
-name: InventoriesPlugin
+name: InventoryPlugin
 version: '${project.version}'
-main: me.ilgroggo.inventoriesplugin.InventoriesPlugin
+main: me.ilgroggo.inventoryplugin.InventoryPlugin
 api-version: '1.20'
 commands:
   menu:
