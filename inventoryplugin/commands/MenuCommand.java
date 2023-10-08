@@ -1,4 +1,4 @@
-package me.ilgroggo.inventoriesplugin.commands;
+package me.ilgroggo.inventoryplugin.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
