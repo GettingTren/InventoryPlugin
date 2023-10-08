@@ -1,7 +1,8 @@
 
 # *InventoryPlugin*
 
-This is a simple plugin for **Minecraft 1.20.1** that customize the **join message when a player join** for the first time or not, and **when a player leave** the server.
+This is a simple plugin for **Minecraft 1.20.1** that **create a custom menu** (called Inventory in spigot) that pops up when the player launches the command **/menu**.
+
 ## Requirements
 
 To deploy this project you will need a few things:
