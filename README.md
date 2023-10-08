@@ -3,6 +3,10 @@
 
 This is a simple plugin for **Minecraft 1.20.1** that **create a custom menu** (called Inventory in spigot) that pops up when the player launches the command **/menu**.
 
+This plugin can be used in a server like a **world selector**: it includes *bedwars, skyblock, kitpvp and survival* options to select from.
+
+When a player interacts with the menu, **the items are not-clickable and nor-movable**, with a custom **listener** that sends the player a message with the name of the 'world' selected.  
+
 ## Requirements
 
 To deploy this project you will need a few things:
