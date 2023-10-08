@@ -1,4 +1,4 @@
-package me.ilgroggo.inventoriesplugin.listeners;
+package me.ilgroggo.inventoryplugin.listeners;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
