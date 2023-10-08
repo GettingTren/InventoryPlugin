@@ -1,0 +1,7 @@
+name: InventoriesPlugin
+version: '${project.version}'
+main: me.ilgroggo.inventoriesplugin.InventoriesPlugin
+api-version: '1.20'
+commands:
+  menu:
+    description: Open Menu Inventory
