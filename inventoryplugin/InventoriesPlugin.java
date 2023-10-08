@@ -1,12 +1,12 @@
-package me.ilgroggo.inventoriesplugin;
+package me.ilgroggo.inventoryplugin;
 
-import me.ilgroggo.inventoriesplugin.commands.MenuCommand;
-import me.ilgroggo.inventoriesplugin.listeners.InventoryMoveListener;
+import me.ilgroggo.inventoryplugin.commands.MenuCommand;
+import me.ilgroggo.inventoryplugin.listeners.InventoryMoveListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Objects;
 
-public final class InventoriesPlugin extends JavaPlugin {
+public final class InventoryPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
